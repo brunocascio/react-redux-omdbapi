@@ -1,4 +1,6 @@
 # react-redux-omdbapi
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/brunocascio/react-redux-omdbapi.svg)](https://greenkeeper.io/)
 An example using react + redux + omidbapi
 
 ## How to use
